@@ -1,0 +1,22 @@
+#heading
+{
+background-image: url("logo.png");
+color: white;
+   text-align: center;
+
+
+}
+.container
+{
+
+background-color: rgb(9, 0, 34);
+color: white;
+text-align: center;
+border-radius: 40px;
+}
+body
+{
+background-color: rgb(33, 32, 32);
+color:white;
+
+}
